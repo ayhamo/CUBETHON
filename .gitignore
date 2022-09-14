@@ -10,7 +10,6 @@
 [Uu]nityGenerated/
 Logs/
 .vscode/
-Builds/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
